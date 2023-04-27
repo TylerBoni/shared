@@ -1,6 +1,6 @@
 # Introduction
 
-Bridge Brothers wants a web application that can assist them in storing Quote, sales, accounting, and engineering data. They want to be able to quote multiple times, win bids, and create 3D models from the same data. As the database grows, they want to query the db to make predictions and reports for the business.
+BB wants a web application that can assist them in storing Quote, sales, accounting, and engineering data. They want to be able to quote multiple times, win bids, and create 3D models from the same data. As the database grows, they want to query the db to make predictions and reports for the business.
 
 In the long term, they want this system to be customizable enough to use for any other business in the same industry.
 
@@ -22,7 +22,7 @@ FastAPI - Python powered API creation framework that will relay the data and tra
 MongoDB - This is a noSQL (not only SQL) database framework that uses "document" based record groups. This is our favorite framework for data that needs to be flexible. BB is young in this project, and it is likely they will continue to grow their datafields. Mongo makes this easier than other DB solutions. It is similar to DynamoDB from AWS, which is also a fantastic option. Mongo is very popular and well supported.
 
 ## UI Design
-
+Building on React, there is no limit. Feel free to share sample websites that you like.
 
 ## API Design
 
